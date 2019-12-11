@@ -8,7 +8,6 @@
 
 import UIKit
 import HealthKit
-import CoreMotion
 
 class ViewController: UIViewController {
     
